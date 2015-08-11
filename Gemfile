@@ -10,7 +10,6 @@ gem 'sqlite3', group: [:development, :test]
 gem 'bootstrap-sass', '~> 3.3.5.1'
 # Use font-awesome gem for icons
 gem 'font-awesome-sass', '~> 4.3.2.1'
-gem 'font-awesome-sass-rails', '~> 3.0.2.2'
 # Use Postgresql as database for production 
 group :production do
   gem 'pg'
