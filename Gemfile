@@ -57,4 +57,3 @@ group :development, :test do
   gem 'devise', '~> 3.5.2'
   
 end
-
